@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource,Alert
+1979-10-16 06:58:43.450000+00:00,32.9986667,-115.5575,14.19,5.8,ml,7,79,0.05768,0.17,ci,ci3310205,2022-04-27T14:51:22.762Z,"3km NW of Brawley, CA",earthquake,1.03,1.78,,0,reviewed,ci,ci,yellow
+2010-04-04 22:40:42.360000+00:00,32.2861667,-115.2953333,9.987,7.2,mw,10,239,0.5137,0.11,ci,ci14607652,2024-12-06T04:09:58.488Z,"The 2010 Sierra El Mayor, B.C., Mexico Earthquake",earthquake,1.81,31.61,,0,reviewed,ci,ci,red
+2012-05-20 02:03:52+00:00,44.89,11.23,6.3,6,mww,729,11.5,,,us,usp000jkn8,2022-05-03T15:40:01.899Z,"4 km NNE of Massa Finalese, Italy",earthquake,,,,,reviewed,rom,us,orange
